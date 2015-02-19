@@ -43,3 +43,6 @@ Temporary Items
 .apdisk
 
 backup/
+Settings.php
+Settings_bak.php
+SettingsSERVER.php
